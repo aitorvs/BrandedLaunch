@@ -2,7 +2,7 @@
 
 Source code example to brand your apps at launch.
 
-Check out the post entry in <a href="https://twitter.com/aitorvs">medium</a>.
+Check out the post entry in <a href="https://medium.com/@aitorvs/android-app-with-branded-launch-screen-31ffd8a9d1da">medium</a>.
 
 Developed By
 --------------------
