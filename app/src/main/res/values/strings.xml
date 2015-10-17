@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Branded Launch</string>
+
+    <string name="dummy_content">HELLO APP!</string>
+</resources>

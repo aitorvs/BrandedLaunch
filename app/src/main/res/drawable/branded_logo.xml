@@ -1,0 +1,11 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <color android:color="#111"/>
+    </item>
+    <item>
+        <bitmap
+            android:src="@drawable/ic_branded_logo"
+            android:tileMode="disabled"
+            android:gravity="center"/>
+    </item>
+</layer-list>
